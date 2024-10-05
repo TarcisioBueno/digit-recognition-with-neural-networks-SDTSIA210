@@ -1,6 +1,6 @@
 # MNIST Neural Network from Scratch and Autoencoders
 
-This repository contains a Jupyter Notebook that explores two main topics:
+This project uses the well-known MNIST dataset to study the following concepts:
 
 1. **Building a Simple Neural Network (Linear Classifier) from Scratch with NumPy:**
    - Implements a basic linear classifier for the MNIST dataset using only NumPy.
